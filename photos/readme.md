@@ -1,2 +1,1 @@
-This folder is to put panorama
-==============================
+This folder is to put panorama files in JPG format
